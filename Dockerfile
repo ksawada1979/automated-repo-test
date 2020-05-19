@@ -1,3 +1,3 @@
 FROM docker/whalesay:latest
-ENV AUTHOR"Ken Sawada"
+ENV AUTHOR "Ken Sawada"
 
