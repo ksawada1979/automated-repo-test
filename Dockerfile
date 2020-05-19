@@ -1,2 +1,3 @@
-FROM dockersamples/static-site
+FROM docker/whalesay:latest
 ENV AUTHOR"Ken Sawada"
+
